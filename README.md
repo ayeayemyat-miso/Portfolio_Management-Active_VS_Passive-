@@ -78,4 +78,11 @@
 | ...           | ...                | ...              |  
 
 
+----
+## How to Check:   
+1. **Master Excel File**:  
+   - Download from [Google Drive](https://docs.google.com/spreadsheets/d/1ovhuICCpJpxHxPU1dI223FWGqvEFDIc4/edit?usp=drive_link&ouid=115337222374551152231&rtpof=true&sd=true) Please note that access to the Google Drive link is restricted, and you may need to request permission to view the file.
+     
+2. **Google Colab**:  
+   - Click this link to cross check the calcuation from excel[Google Collab](https://colab.research.google.com/drive/1k_CXgJiOEA30eQyVyKsGujJcLALXvVKZ?usp=sharing). 
 
